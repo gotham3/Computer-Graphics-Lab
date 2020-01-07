@@ -1,0 +1,56 @@
+1. Write a program to print a line by using redefine line function.
+2. Write a program to print a line by using redefine rectangle function.
+3. Write a program to print a line by using redefine circle function.
+4. Write a program to print a line by using redefine arc function.
+5. Write a program to print to make a rainbow.
+6. Write a program to make static object(like human , car , robot etc.).
+7. Write a program to make moving object.
+8. Write a program to implement DDA line drawing algorithm.
+9. Write a program to implement Bresenham's line drawing algorithm.
+10. Write a program to implement Mid point line drawing algorithm.
+11. Write a program to implement Bresenham's circle drawing algorithm.
+12. Write a program to implement Mid point circle drawing algorithm.
+13. Write a program to implement Ellipse drawing using mid point algorithm.
+14. Write a program to print polygon (line , circle , rectangle , cube etc) by using symbols (* , & , % , $ , # , @ etc).
+15. Write a program to print Sine or Cos wave.
+16. WAP to print various graph by using graphics object (line , circle , arc, etc).
+17.WAP to print to multiple objects.
+18. Write a program to print House / Hunt.
+19.Write a program to print Polygon.
+20. WAP to print Character on screen.
+21. WAP to perform 2D tanslation on given objects(Polygon).
+22. WAP to perform 2D rotation on given objects(Polygon).
+23. WAP to perform 2D scaling on given objects(Polygon).
+24. WAP to perform 2D reflection on given objects(Polygon).
+25. WAP to perform 2D shearing on given objects(Polygon).
+26. WAP to perform 2D composite tranformation on given objects(Polygon).
+27. WAP to perform 3D tanslation on given objects(Polygon).
+28. WAP to perform 3D rotation on given objects(Polygon).
+29. WAP to perform 3D scaling on given objects(Polygon).
+30. WAP to perform 3D reflection on given objects(Polygon).
+31. WAP to perform 3D shearing on given objects(Polygon).
+32. WAP to perform 3D composite tranformation on given objects(Polygon).
+33. WAP to implement scan line algorithm for area filling(Take different Polygon).
+34.WAP to implement Flood fill algorithm for solid polygon.
+35. WAP to implement Boundary fill algorithm.
+36. WAP to implement Inside Outside test algorithm.
+37. WAP to implement point clipping concept.
+38. WAP to implement Cohen Sutherland algorithm for line clipping.
+39. WAP to implement Mid point algorithm for line clipping.
+40. WAP to implement Laing- Barskey algorithm for line clipping.
+41. WAP to implement Sutherland algorithm for Polygon clipping.
+42. WAP to implement Weiler-Atherton algorithm for Polygon clipping.
+43. WAP to implement Bezier curve using four control points.
+44. WAP for implementing planetary system.
+45. WAP to implement a Animation concept (In between Rotation and Translation ).
+46. WAP to implement a spline driven animation.
+47. WAP to implement Image tranformation(Translation and Rotation).
+48. WAP to implement concept of Phong and Grounding.
+49. WAP to display different color model (like RGB , CMY , HSV) by using polygon or animation object.
+50. WAP to Implement the following alogrithm:
+a. Painter algorithm
+b. Warnock algorithm
+c. Basic Ray tracing algorithm
+d. Scanline algoritham
+e. Z-buffer or Depth Buffer algorithm
+f.Scanline algorithm
